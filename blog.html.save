@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>MY BLOG</title>
+  <title>Bootstrap Example</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -30,7 +30,7 @@
 
 <div class="jumbotron">
   <div class="container text-center">
-    <h1>MY BLOG</h1>      
+    <h1>Online Store</h1>      
     <p>Mission, Vission & Values</p>
   </div>
 </div>
@@ -48,8 +48,9 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Faimly</a></li>
-        <li><a href="#">School</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">Deals</a></li>
+        <li><a href="#">Stores</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -64,32 +65,23 @@
   <div class="row">
     <div class="col-sm-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">HOW TO DRIBLE</div>
-        <div ID="Blog">
-<h1>HOW TO DRIBLE</h1>
-<h3>How you drible is you get a ball.You put
-your hand on top of your basketball. You let
-go and and when it comes back up you grab it
-and bounce it on the ground.</h3>
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-danger">
-        <div class="panel-heading">HOW YOU DO A RIGHT HANDED LAYUP</div>
-        <div ID="BlogEntry2">
-<h1>HOW YOU DO A RIGHT HANDED LAYUP</h1>
-<h3>you get your basketball.You drible near the basket.You jump
-and throw your right arm at the basket along with your right leg.</h3>
-</div>
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-success">
-        <div class="panel-heading">HOW YOU SHOOT</div>
-        <div ID="BlogEntry3">
-<h1>HOW YOU SHOOT</h1>
-<h3>You want to get a distance from the hoop. Then put your right
-hand on top of the ball. And your left hand on the left side and shoot.</h3>
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
       </div>
     </div>
   </div>
@@ -99,46 +91,20 @@ hand on top of the ball. And your left hand on the left side and shoot.</h3>
   <div class="row">
     <div class="col-sm-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">HOW YOU DO A LEFT HANDED LAYUP</div>
-        <div ID="BlogEntry4">
-<h1>HOW YOU DO A LEFT HANDED LAYUP</h1>
-<h3>You get a basketball, you go near the hoop on the left side.
-you jump and throw your left arm at the backboard.along with your left leg</h3>
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-primary">
-        <div class="panel-heading">HOW YOU BOUNCE PASS</div>
-        <div ID="BlogEntry5">
-<h1>HOW YOU BOUNCE PASS</h1>
-<h3>First find a teammate that is open. Then pass the ball at the ground 3
-quarters of the distance</h3>
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
       </div>
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-primary">
-        <div class="panel-heading">HOW TO CHEST PASS</div>
-        <div ID="BlogEntry6">
-<h1>HOW TO CHEST PASS</h1>
-<h3>Find a teammate that is open. then put the ball to your chest
-fling your arms when passing</h3>
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-    </div>
-  </div>
-</div><br><br>
-
+        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+ 
